@@ -17,7 +17,7 @@ Modify the function sum so that it uses the rest operator and it works in the sa
 clone it :
 
 ```
-git remote add origin git@github.com:FreeCodeCampus/rest-operator.git
+git clone git@github.com:FreeCodeCampus/rest-operator.git
 ```
 and run a command in your terminal
 
